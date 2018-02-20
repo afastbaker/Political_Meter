@@ -1,7 +1,3 @@
-.well{
-  background-color: skyblue;
-}
-
-.message{
+#moderate, #liberal, #conservative {
   display: none;
 }
